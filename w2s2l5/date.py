@@ -33,15 +33,3 @@ while True:
         break
     else:
         print(risposta)
-
-
-
-
-
-
-
-
-
-
-
-        
